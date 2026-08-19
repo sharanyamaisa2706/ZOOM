@@ -1,4 +1,4 @@
-# 🎥 Apna Video Call
+# 🎥Zoom Clone
 
 Apna Video Call is a full-stack web application that allows users to connect with others through **real-time video meetings** directly from their browser.
 
